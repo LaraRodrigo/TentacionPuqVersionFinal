@@ -1,0 +1,5 @@
+PRECIO
+$20.000
+
+COLORES
+Azul 

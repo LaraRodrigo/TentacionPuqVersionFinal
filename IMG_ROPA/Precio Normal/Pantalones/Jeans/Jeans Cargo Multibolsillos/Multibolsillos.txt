@@ -1,0 +1,5 @@
+PRECIO
+$19.000
+
+COLOR
+Negro

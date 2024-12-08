@@ -1,0 +1,5 @@
+PRECIO
+$22.000
+
+COLOR
+Gris
